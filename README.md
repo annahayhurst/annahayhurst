@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2> About Me <img src="https://media0.giphy.com/media/QZy66oggJPGPJiAijf/giphy.gif" width="50"></h2>
+<img align='right' src="https://cdn141.picsart.com/300081205147211.png" width="300">
 
-<!--
-**annahayhurst/annahayhurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`she/her, they/them`
 
-Here are some ideas to get you started:
+<p>🌸 <em>Associate Software Developer at Sky, joined through the <a href="https://careers.sky.com/earlycareers/graduateprogrammes/">grad scheme</a></br>🌸 Works on iOS development for Sky News and Sky Sports</br>🌸 Graduated in Computer Science at the University of Leicester
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-hayhurst-98aa58140/)](https://www.linkedin.com/in/anna-hay#hurst-98aa58140/)
+
+
+### ✍🏻 My Languages and Frameworks
+
+**Confident with**:
+* Swift 🐦
+* React ⚛️ (Using ES6 and React Hooks)
+* Java ☕
+
+**Working knowledge of:**
+* C++
+* OpenGL
+* Javascript
+
+**Know the basics of/learning:**
+* SwiftUI
+* C#
+* Scala
+* Kotlin
+* Python
+* Bash
+
+**Want to learn:**
+* Rust
+* Go
+* WebAssembly
