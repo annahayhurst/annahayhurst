@@ -1,7 +1,7 @@
 <h2> About Me <img src="https://media0.giphy.com/media/QZy66oggJPGPJiAijf/giphy.gif" width="50"></h2>
 <img align='right' src="https://cdn141.picsart.com/300081205147211.png" width="300">
 
-`she/her, they/them`
+`they/them, she/her`
 
 <p>🌸 <em>Associate Software Developer at Sky, joined through the <a href="https://careers.sky.com/earlycareers/graduateprogrammes/">grad scheme</a></br>🌸 Works on iOS development for Sky News and Sky Sports</br>🌸 Graduated in Computer Science at the University of Leicester
 </em></p>
