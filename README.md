@@ -17,6 +17,7 @@
 * Java ☕
 
 **Working knowledge of:**
+* Kotlin
 * C++
 * OpenGL
 * Javascript
@@ -25,7 +26,6 @@
 * SwiftUI
 * C#
 * Scala
-* Kotlin
 * Python
 * Bash
 
