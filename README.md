@@ -3,7 +3,7 @@
 
 `they/them, she/her`
 
-<p>🌸 <em>Associate Software Developer at Sky, joined through the <a href="https://careers.sky.com/earlycareers/graduateprogrammes/">grad scheme</a></br>🌸 Works on iOS development for Sky News and Sky Sports</br>🌸 Graduated in Computer Science at the University of Leicester
+<p>🌸 <em>Developer at Sky, joined through the <a href="https://careers.sky.com/earlycareers/graduateprogrammes/">grad scheme</a></br>🌸 Works on iOS development for Sky News and Sky Sports</br>🌸 Graduated in Computer Science at the University of Leicester
 </em></p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-hayhurst-98aa58140/)](https://www.linkedin.com/in/anna-hayhurst-98aa58140/)
@@ -13,12 +13,12 @@
 
 **Confident with**:
 * Swift 🐦
-* React ⚛️ (Using ES6 and React Hooks)
+* Kotlin 🤖
 * Java ☕
 
 **Working knowledge of:**
-* Kotlin
 * C++
+* React (Using ES6 and React Hooks)
 * OpenGL
 * Javascript
 
