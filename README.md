@@ -3,7 +3,7 @@
 
 `they/them`
 
-<p>🌸 <em>Developer at Sky, joined through the <a href="https://careers.sky.com/earlycareers/graduateprogrammes/">grad scheme</a></br>🌸 Works on iOS development for Sky News and Sky Sports</br>🌸 Graduated in Computer Science at the University of Leicester
+<p>🌸 <em>Developer at Sky, joined through the <a href="https://careers.sky.com/earlycareers/graduateprogrammes/">grad scheme</a></br>🌸 Works on iOS development for Sky News</br>🌸 Graduated in Computer Science at the University of Leicester
 </em></p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-hayhurst-98aa58140/)](https://www.linkedin.com/in/anna-hayhurst-98aa58140/)
@@ -12,19 +12,17 @@
 ### ✍🏻 My Languages and Frameworks
 
 **Confident with**:
-* Swift 🐦
+* Swift 🐦(UIKit, and to a lesser degree SwiftUI and Vapor)
 * Kotlin 🤖
-* Java ☕
 
-**Working knowledge of:**
-* C++
-* React (Using ES6 and React Hooks)
-* OpenGL
+**Working knowledge of/have previously worked with:**
+* Java
+* C++ (focusing on OpenGL and Unreal)
+* React (ES6 + Hooks)
 * Javascript
 
-**Know the basics of/learning:**
-* SwiftUI
-* C#
+**Know the basics of:**
+* C# (focusing on Unity)
 * Scala
 * Python
 * Bash
