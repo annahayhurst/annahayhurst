@@ -29,5 +29,4 @@
 
 **Want to learn:**
 * Rust
-* Go
 * WebAssembly
