@@ -13,9 +13,9 @@
 
 **Confident with**:
 * Swift 🐦(UIKit, and to a lesser degree SwiftUI and Vapor)
-* Kotlin 🤖
 
 **Working knowledge of/have previously worked with:**
+* Kotlin
 * Java
 * C++ (focusing on OpenGL and Unreal)
 * React (ES6 + Hooks)
