@@ -12,20 +12,22 @@
 ### ✍🏻 My Languages and Frameworks
 
 **Confident with**:
-* Swift 🐦(UIKit, and to a lesser degree SwiftUI and Vapor)
+* Swift 🐦
 
 **Working knowledge of/have previously worked with:**
 * Kotlin
 * Java
 * C++ (focusing on OpenGL and Unreal)
-* React (ES6 + Hooks)
-* Javascript
+* React (Hooks)
+* ES6
 
 **Know the basics of:**
 * C# (focusing on Unity)
 * Scala
 * Python
 * Bash
+* Haskell
+* Prolog
 
 **Want to learn:**
 * Rust
