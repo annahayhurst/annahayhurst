@@ -3,26 +3,28 @@
 
 `they/them` | `none gender left developer 🍕`
 
-<p>🌸 <em>Developer at Sky, joined through the <a href="https://careers.sky.com/earlycareers/graduateprogrammes/">grad scheme</a></br>🌸 Works on iOS development for Sky News</br>🌸 Graduated in Computer Science at the University of Leicester
-</em></p>
+<ul>
+  <li>iOS Developer at Sky, working on Sky News </li>
+  <li>Joined through the <a href="https://careers.sky.com/earlycareers/graduateprogrammes/">grad scheme</a>. Would recommend!</li>
+  <li>Graduated in Computer Science at the University of Leicester</li>
+</ul>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-hayhurst-98aa58140/)](https://www.linkedin.com/in/anna-hayhurst-98aa58140/)
+<br />
 
+<h2> ✍🏻 My Languages and Frameworks </h2>
 
-### ✍🏻 My Languages and Frameworks
-
-**Confident with**:
-* Swift 🐦
+**Fluent in**:
+* Swift 🐦🧡
 
 **Working knowledge of/have previously worked with:**
 * Kotlin
 * Java
-* C++ (focusing on OpenGL and Unreal)
+* C++ (OpenGL and Unreal)
 * React (Hooks)
-* ES6
+* ES6 / TS
 
 **Know the basics of:**
-* C# (focusing on Unity)
+* C# (Unity)
 * Scala
 * Python
 * Bash
