@@ -1,7 +1,7 @@
 <h2> About Me <img src="https://media0.giphy.com/media/QZy66oggJPGPJiAijf/giphy.gif" width="50"></h2>
 <img align='right' src="https://cdn141.picsart.com/300081205147211.png" width="300">
 
-`they/them` | `none gender left developer 🍕`
+`they/he` | `none gender left developer 🍕`
 
 <ul>
   <li>iOS Developer at Sky, working on Sky News </li>
