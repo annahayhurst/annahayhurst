@@ -16,7 +16,7 @@
 **Fluent in**:
 * Swift 🐦🧡
 
-**Working knowledge of/have previously worked with:**
+**Decent awareness of/have previously worked with:**
 * Kotlin
 * Java
 * C++ (OpenGL and Unreal)
