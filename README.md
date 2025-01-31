@@ -4,7 +4,7 @@
 `they/he` | `none gender left developer 🍕`
 
 <ul>
-  <li>iOS Developer at Sky, working on Sky News </li>
+  <li>Senior iOS Developer at Sky, working on Sky News </li>
   <li>Joined through the <a href="https://careers.sky.com/earlycareers/graduateprogrammes/">grad scheme</a>. Would recommend!</li>
   <li>Graduated in Computer Science at the University of Leicester</li>
 </ul>
@@ -33,4 +33,6 @@
 
 **Want to learn:**
 * Rust
+* C
+* Assembly
 * WebAssembly
