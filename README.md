@@ -20,7 +20,6 @@
 * Kotlin
 * Java
 * C++ (OpenGL and Unreal)
-* React (Hooks)
 * ES6 / TS
 
 **Know the basics of:**
